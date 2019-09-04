@@ -1,0 +1,5 @@
+// override some bootstrap variables before bootstrap is imported
+$primary: red;
+$secondary: purple;
+
+@import "~bootstrap/scss/bootstrap";
